@@ -2,7 +2,7 @@
 
 This folder contains **2 code files** structured as follows:
 
-### 🧠 1. `CMPE_544_Assignment_1_Expectation_Maximization.ipynb`
+### 1. `CMPE_544_Assignment_1_Expectation_Maximization.ipynb`
 
 - Contains the implementation for **Part 1** of the assignment (Expectation-Maximization).
 - **Required Data File:**
@@ -10,7 +10,7 @@ This folder contains **2 code files** structured as follows:
 
 ---
 
-### ✏️ 2. `CMPE_544_Assignment_1_Quick_Draw.ipynb`
+### 2. `CMPE_544_Assignment_1_Quick_Draw.ipynb`
 
 - Contains the implementation for **Part 2** of the assignment (Quick, Draw! image classification).
 - **Required Data Files:**
